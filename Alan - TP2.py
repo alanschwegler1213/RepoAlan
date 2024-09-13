@@ -27,7 +27,7 @@ def main():
             
             # Verificar que los números son positivos
             if a <= 0 or b <= 0 or c <= 0:
-                print("Todos los números deben ser positivos. Intente de nuevo.")
+                print("Todos los números deben ser positivos. Intente de nuevo por favor.")
                 continue
             
             break
